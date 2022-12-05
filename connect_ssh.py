@@ -6,9 +6,9 @@ import logging
 import datetime as dt
 import traceback
 
-host = "10.11.212.46"
-username = "root"
-password = "Nokia@2k18N"
+host = ""
+username = ""
+password = ""
 
 time_now = dt.datetime.now()
 time_now = dt.datetime.strftime(time_now, "%d-%m-%Y")
